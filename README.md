@@ -4,30 +4,6 @@ A curated collection of certificates I've earned through courses, training progr
 
 ---
 
-## 📁 Repository Structure
-
-```
-Certificates/
-├── CertificateOfCompletion_Building Emotional Intelligence Skills in the Age of AI.pdf
-├── CertificateOfCompletion_Career Essentials in GitHub Professional Certificate.pdf
-├── CertificateOfCompletion_Communicating with Empathy.pdf
-├── CertificateOfCompletion_DevOps Professional Certificate by PagerDuty and LinkedIn.pdf
-├── CertificateOfCompletion_Docker Foundations Professional Certificate.pdf
-├── CertificateOfCompletion_Docker Your First Project.pdf
-├── CertificateOfCompletion_Git Essential Training.pdf
-├── CertificateOfCompletion_Making Recruiters Come to You with J.T. ODonnell.pdf
-├── CertificateOfCompletion_Search Engine Optimization Professional Certificate by Moz.pdf
-├── CertificateOfCompletion_Simplifying Web Development with Accessibility Best Practices.pdf
-├── CertificateOfCompletion_Talent Management.pdf
-├── CertificateOfCompletion_Talent Management-1.pdf
-├── CertificateOfCompletion_TypeScript Essential Training.pdf
-├── CertificateOfCompletion_Web Components and Modularization Practical Approaches.pdf
-├── Green_Digital_Certificate.pdf
-└── README.md
-```
-
----
-
 ## 📜 Certificates
 
 ### 💻 Development & DevOps
